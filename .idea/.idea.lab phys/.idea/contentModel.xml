@@ -5,7 +5,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
+          <e p="CommunicationItemCollision.cs" t="Include" />
           <e p="ForceMover.cs" t="Include" />
+          <e p="inputData.cs" t="Include" />
         </e>
       </e>
       <e p="lab phys.sln" t="IncludeFlat" />
